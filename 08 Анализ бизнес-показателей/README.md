@@ -13,4 +13,5 @@
 **Навыки и инструменты**  
 
 Python, Pandas, matplotlib, datetime, numpy
+
 Обработка данных, дубликаты, пропуски, выбросы, когортный анализ,  расчет метрик (LTV, ROI, Retention Rate, Conversion Rate), момент и горизонт анализа,  визуализация 
