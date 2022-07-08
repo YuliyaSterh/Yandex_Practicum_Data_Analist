@@ -19,6 +19,7 @@
 
 
 **Задача**   
+
  - минимизация оттока клиентов банка на основе анализа их поведения, 
  - сегментация пользователей по потреблению, 
  - проверка гипотез  о различии дохода между клиентами, которые пользуются двумя продуктами банка и теми, которые пользуются одним, а также между клиентами Рыбинска и Ростова
@@ -28,14 +29,10 @@
 
 Python, Pandas, matplotlib, seaborn, datetime, sklearn (StandardScaler, KMeans) scipy (dendrogram, ttest)
 
-Обработка данных, дубликаты, выбросы, категоризация, визуализация, кластеризация
+Декомпозиция, обработка данных, дубликаты, выбросы, категоризация, визуализация, матрица корреляций, матрица расстояний, стандартизация, дендрограмма, кластеризация, проверка гипотез с использованием t-критерия Стьюдента
 
 **Материалы для проекта:**
 
-1. Презентация: 
-    
-https://disk.yandex.ru/i/LloiIDRDI01jGQ
+1. [Презентация](https://disk.yandex.ru/i/LloiIDRDI01jGQ)
 
-2. Дашборд:
-    
-https://public.tableau.com/views/Dashboardofproducts_16532380828100/Dashboardofproducts?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+2. [Дашборд](https://public.tableau.com/views/Dashboardofproducts_16532380828100/Dashboardofproducts?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
